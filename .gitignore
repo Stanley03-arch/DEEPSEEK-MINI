@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Model / training artifacts (keep sample weights if desired)
+# *.pt
+
+# Streamlit
+.streamlit/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Env / logs
+.env
+.env.*
+*.log
