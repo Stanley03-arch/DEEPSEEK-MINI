@@ -8,6 +8,8 @@ A small educational project that combines:
 
 Perfect for learning how transformers work and for showcasing a local AI assistant.
 
+See [CHANGELOG.md](CHANGELOG.md) for release notes.
+
 ---
 
 ## Project Structure
@@ -19,6 +21,7 @@ DEEPSEEK-MINI/
 ├── app.py                # Streamlit chat → Ollama DeepSeek
 ├── index.html            # Beautiful static landing + demo chat
 ├── requirements.txt
+├── CHANGELOG.md
 └── README.md
 ```
 
